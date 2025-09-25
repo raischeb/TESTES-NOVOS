@@ -33,7 +33,8 @@ class VocabularioExpansor:
         self.numeros = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
         
         # Letras já implementadas
-        self.letras_implementadas = ['A', 'B', 'C', 'D', 'E',]
+        self.letras_implementadas = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 
+            'K', 'L',]
         
         # Letras a serem adicionadas
         self.letras_para_adicionar = [letra for letra in self.letras_completas 
