@@ -26,14 +26,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Arquivos de modelo temporários
-*.pkl
-*.joblib
-
-# Arquivos de dados temporários
-*.csv
-*.json
-
 # Arquivos de log
 *.log
 

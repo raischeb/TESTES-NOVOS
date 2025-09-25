@@ -83,9 +83,3 @@ Thumbs.db
 *.h5
 *.pb
 *.tflite
-
-# Arquivos de dados grandes
-*.csv
-*.json
-!gestos_libras.csv
-!modelo_info.pkl
